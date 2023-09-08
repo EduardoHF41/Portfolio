@@ -5,7 +5,10 @@
 body{
     font-family: 'Source Code Pro', monospace;
     padding: 18px;
-    background-image: url("/estilos/fundo-galaxy.png");
+}
+
+.background{
+    background-image: url("../estilos/fundo-galaxy.png");
     background-size: 100%;
 }
 
