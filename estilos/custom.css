@@ -15,7 +15,6 @@ body{
 .contatos a{
     color: white;
     text-decoration: none;
-    padding: 15px;
 }
 .contatos{
     border-style: solid;
@@ -24,6 +23,7 @@ body{
     padding: 18px;
     background-color: #37145fb6;
 }
+
 div{
     color: white;
 }
@@ -75,10 +75,6 @@ p#tamanhofonte{
     margin-bottom: 25px;
     padding: 18px;
     background-color: #37145fb6;
-}
-
-.contatos a{
-    padding: 18px;
 }
 .main-esquerda{
     margin-left: 300px;
